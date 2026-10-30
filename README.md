@@ -4,26 +4,6 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 
 ---
 
-## 🚀 About Me
-
-* 🎓 **Education:** Pursuing my B.S. in Computer Engineering at **Istanbul Technical University** (Expected 2028). Graduated from **Eskişehir Fatih Fen Lisesi** in 2023 with a GPA of 97.92/100.
----
-
-## 🎯 Current Focus & Learning Journey
-
-* 🏗️ **Software Engineering & Enterprise Architecture:** Deepening my knowledge in Object-Oriented Programming (OOP), solid engineering patterns, and data structures to build clean, maintainable, and highly efficient backend applications.
-* 🧠 **Artificial Intelligence & Smart Systems:** Investigating the integration of neural networks, intelligent agents, and modern AI algorithms into software ecosystems to build predictive and autonomous applications.
-
----
-
-## 🛠️ Skills & Technologies
-
-* 💻 **Technical Skills:** C, C++, OOP, Data Structures, Python, LangChain, LangGraph, RAG, Next.js, Git, Docker
-* 🔧 **Tools & Environments:** Git, GitHub, VS Code
-
----
-
-
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/süleyman-enis-otağ-24445b298/)

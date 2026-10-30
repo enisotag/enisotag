@@ -6,5 +6,5 @@ I am a passionate Computer Engineering student at Istanbul Technical University 
 
 ### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/süleyman-enis-otağ-24445b298/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-enis-otag/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enisotag56@gmail.com)
